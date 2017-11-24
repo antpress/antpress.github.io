@@ -1,12 +1,12 @@
----
+﻿---
 layout: post
 title: "Hello Word"
-date: 2016-02-19
+date: 2017-11-24
 categories: 
   - Juice
 description: 
-image: https://picsum.photos/2000/1200/?random
-image-sm: https://picsum.photos/500/300/?random
+image: https://picsum.photos/2000/1200/?image=1074
+image-sm: https://picsum.photos/500/300/?image=1074
 ---
 
 
@@ -54,11 +54,13 @@ image-sm: https://picsum.photos/500/300/?random
 
 **插入图片：**
 
-![一张随机图片](https://picsum.photos/2000/1200/?random)
+![一张随机图片](https://picsum.photos/2000/1200/?image=1074)
 
 
 
 ---
+
+
 **后续会继续更新……**
 
 
