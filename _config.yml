@@ -6,14 +6,14 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: 树獭先生
+title: 一只树獭
 description: 
 url: "www.dear.pet"
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 树獭先生
+name: 一只树獭
 profile_img: https://picsum.photos/2000/1200?image=454
 profile: 凡事都得耐烦去做，忍了痛对你生活去努力。你应当用力量固执着你的希望向前去奋斗，到力尽气竭为止。我们是在同一命运下竭着力量来同生活抗拒的人，看了为可怕的时间所捏碎我们的天真与青春。
 social:
