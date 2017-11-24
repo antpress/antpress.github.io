@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Archive
+title: 历史文章
 description: 
 permalink: /archive/
 ---
 <section class="archives" itemscope itemtype="http://schema.org/Blog">
   <a class="nav nav--black" href="{{ site.baseurl }}/">
     <i class="fa fa-lg fa-arrow-left"></i>
-    <span>Back to Posts</span>
+    <span>返回首页</span>
   </a>
   <header class="archives__header">
-    <span>Archive</span>
+    <span>历史文章</span>
   </header>
   <div class="section-padding archives__container">
     {% for post in site.posts %}
@@ -31,7 +31,7 @@ permalink: /archive/
                 in {{ post.categories | join: ', ' }}
               {% endif %}
             </p>
-            <span class="card__more">Read Post</span>
+            <span class="card__more">点击阅读</span>
           </div>
         </a>
       </article>
