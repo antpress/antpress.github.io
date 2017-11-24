@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: 树獭先生
-profile_img: 
+profile_img: https://github.com/thomasvaeth/trophy-jekyll/blob/master/_screenshots/shuitalogo.png
 profile: 凡事都得耐烦去做，忍了痛对你生活去努力。你应当用力量固执着你的希望向前去奋斗，到力尽气竭为止。我们是在同一命运下竭着力量来同生活抗拒的人，看了为可怕的时间所捏碎我们的天真与青春。
 social:
   github: https://github.com/antpress/antpress.github.io
