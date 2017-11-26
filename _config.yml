@@ -10,7 +10,7 @@ title: Hello Hero
 description: 
 url: "www.dear.pet"
 twitter_username: 
-default_img: 
+default_img: https://picsum.photos/500/?random
 
 # Profile settings
 name: Hello Hero
